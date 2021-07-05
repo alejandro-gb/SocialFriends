@@ -4,12 +4,13 @@
 Durante el examen final de sistemas operativos 1 desarrolle una aplicacion sencilla que hace uso de la nube y kubernetes para deplegar una aplicacion parecida a twitter, puedes registrarte, iniciar sesion, hacer publicaciones, ver las publicaciones de los demas y darles me gusta.
 
 # Herramientas utilizadas
-![node](RESOURCES/node.png)
-![node](RESOURCES/dynamo.png)
-![node](RESOURCES/angular.jpg)
-![node](RESOURCES/docker.png)
-![node](RESOURCES/kubernetes.png)
-![node](RESOURCES/google.png)
+<img src="RESOURCES/node.png" width="150">
+<img src="RESOURCES/docker.png" width="150">
+<img src="RESOURCES/kubernetes.png" width="150">
+<img src="RESOURCES/google.png" width="150">
+<img src="RESOURCES/dynamo.png" width="150">
+<img src="RESOURCES/angular.png" width="100" height="100">
+
 # Direccion de la aplicacion
 ## (Desabilitado) http://34.66.232.206
 
